@@ -33,13 +33,13 @@ My long-term goal is to crack high-paying tech roles (₹50+ LPA / $100K+), and 
 
 ---
 
-## 🔗 Connect With Me
+<!-- ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
 - 🌐 [Portfolio](https://YOUR-PORTFOLIO.dev)
 - 📫 Drop me a message if you're doing the challenge too!
 
----
+--- -->
 
 ## ⭐️ Support & Contribution
 
