@@ -94,8 +94,17 @@ Let’s get better, one problem at a time 💪
 
 ## ⭐️ Support & Contribution
 
-This is a personal learning challenge, but you're welcome to:
-- ⭐️ Star the repo to show support
-- 🍴 Fork and start your own journey!
-- 📥 Create issues for feedback or suggestions
+This repository is intended for **learning and self-improvement** through consistent DSA practice. You're welcome to:
 
+- ⭐️ **Star** this repo to bookmark or support the challenge
+- 🍴 **Fork** to start your own 100 Days of LeetCode journey
+- 🛠️ **Adapt** the scoring rules or format to suit your workflow
+- 💬 **Create issues** for feedback, corrections, or discussion
+
+> ⚠️ **Note:** These solutions are shared for educational purposes only.  
+> Please **do not copy-paste** them into coding assessments, interviews, or coursework.  
+> Instead, use them to learn patterns, compare logic, and improve your own approach.
+
+If you're preparing seriously, try solving problems first **without looking at code**, then come back to review and compare.
+
+Let’s learn better — not just faster. 💡
