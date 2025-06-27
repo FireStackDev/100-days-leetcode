@@ -11,6 +11,17 @@ My long-term goal is to crack high-paying tech roles (₹50+ LPA / $100K+), and 
 
 ---
 
+## 📂 Daily Progress
+
+- [Day 1](./Day_01/) — Challenge started
+- [Day 2](./Day_02/) — Solved 4 problems + 2 optimisations
+- [Day 3](./Day_03/) — *(Coming soon...)*
+- ...
+
+> ✅ Update this list daily as new folders are added.
+
+---
+
 ## 📊 Scoring Rules (Strict Mode)
 
 - ✅ Easy solved ≤ 25 min → +10 pts  
