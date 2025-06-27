@@ -99,8 +99,3 @@ This is a personal learning challenge, but you're welcome to:
 - 🍴 Fork and start your own journey!
 - 📥 Create issues for feedback or suggestions
 
----
-
-**Let’s keep learning, one problem at a time.**
-
----
