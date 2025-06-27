@@ -7,7 +7,9 @@ This repository contains my daily progress, solutions, and optimizations for Lee
 
 To refresh, polish, and master problem-solving skills through a consistent 100-day challenge — solving LeetCode problems daily with time-tracking, complexity analysis, and strict self-assessment scoring.
 
-My long-term goal is to crack high-paying tech roles (₹50+ LPA / $100K+), and this repo is a part of that journey.
+- Build strong fundamentals in DSA (Data Structures & Algorithms)
+- Improve problem-solving speed, clarity, and optimization skills
+- Prepare for top-tier product-based interviews (₹50 LPA+ or $100K+ roles)
 
 ---
 
@@ -24,15 +26,27 @@ My long-term goal is to crack high-paying tech roles (₹50+ LPA / $100K+), and 
 
 ## 📊 Scoring Rules (Strict Mode)
 
-- ✅ Easy solved ≤ 25 min → +10 pts  
-- ✅ Medium solved ≤ 45 min → +25 pts  
-- ✅ Hard solved ≤ 90 min → +60 pts  
-- ✨ Optimised Big-O complexity → +15 pts  
-- ✍️ Wrote pattern/cheat-sheet (≤ 150 words) → +10 pts  
-- 📢 Taught back a solution (≤ 3 min explanation) → +10 pts  
-- 🟥 Missed day without reason → −15 pts  
-- 🧪 Copied code without understanding → −25 pts  
-- ...and more (See `/docs/rules.md` for full system)
+| Action | Points |
+|--------|--------|
+| ✅ Easy problem solved solo within 25 minutes | +10 |
+| ✅ Medium problem solved solo within 45 minutes | +25 |
+| ✅ Hard problem solved solo within 90 minutes | +60 |
+| ✨ Optimised Big-O complexity after accepted solution | +15 |
+| 🧠 Wrote a ≤150-word pattern cheat-sheet | +10 |
+| 🎙️ Taught back the solution clearly (≤ 3 min explanation) | +10 |
+| ⌛ Solved after 1.5× max time | 50% points |
+| ⌛ Solved between time cap and 1.5× cap | 75% points |
+
+---
+
+## ❌ Penalties
+
+| Violation | Penalty |
+|-----------|---------|
+| Asking full explanation after 2 hints | −10 |
+| More than 3 syntax or logic corrections needed | −5 |
+| Missed a scheduled day without reason | −15 |
+| Copy–paste solution without understanding | −25 |
 
 ---
 
@@ -44,13 +58,39 @@ My long-term goal is to crack high-paying tech roles (₹50+ LPA / $100K+), and 
 
 ---
 
-<!-- ## 🔗 Connect With Me
+## 🧗 Level Progression
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
-- 🌐 [Portfolio](https://YOUR-PORTFOLIO.dev)
-- 📫 Drop me a message if you're doing the challenge too!
+| Level | Points Range | Title |
+|-------|--------------|-------|
+| L0    | 0–299         | Explorer |
+| L1    | 300–749       | Problem Solver |
+| L2    | 750–1499      | Pattern Seeker |
+| L3    | 1500–2399     | Interview Ready |
+| L4    | 2400–3199     | Advanced Hacker |
+| L5    | 3200+         | ₹50 LPA Ready 🚀 |
 
---- -->
+---
+
+
+## 📌 Challenge Rules
+
+- Work solo, no AI/code reference unless debugging
+- Track time taken per problem
+- Log problem ID, time, difficulty, complexity
+- Use GitHub repo to commit each day’s progress
+- Update README and score log regularly
+
+---
+
+## 🏁 Finish Line
+
+Consistency is key — reach Level 5 in 100 days, and unlock real interview-readiness for product companies and high-paying roles.
+
+> “Discipline equals freedom.” — Jocko Willink
+
+Let’s get better, one problem at a time 💪
+
+---
 
 ## ⭐️ Support & Contribution
 
