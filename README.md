@@ -15,10 +15,12 @@ To refresh, polish, and master problem-solving skills through a consistent 100-d
 
 ## 📂 Daily Progress
 
-- [Day 1](./DAY%201/) — Challenge started
-- [Day 2](./DAY%202/) — Solved 4 problems + 2 optimisations
-- [Day 3](./DAY%203/) — *(Coming soon...)*
-- ...
+- [Day 1](./DAY%201/) — Challenge started: Sliding Window, Linked List, Greedy, and DP  
+- [Day 2](./DAY%202/) — Solved 4 problems + 2 optimisations (O(1) tweaks)  
+- [Day 3](./DAY%203/) — Classic problems + cleanups: Valid Parentheses, LCP  
+- [Day 4](./DAY%204/) — Spent more time on optimisations; explored heap/bucket sort  
+- [Day 5](./DAY%205/) — Two-pointers, Linked Lists, Subsequence math — 5 problems in total  
+
 
 > ✅ Update this list daily as new folders are added.
 
